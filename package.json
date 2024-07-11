@@ -1,0 +1,11 @@
+{
+  "name": "Test-Automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jegpro/Test-Automation.git",
+  "author": "jegpro <jegor.pronkin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}
