@@ -1,5 +1,5 @@
 {
-  "name": "Test-Automation",
+  "name": "test-automation",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/jegpro/Test-Automation.git",
@@ -8,4 +8,5 @@
   "devDependencies": {
     "cypress": "^13.13.0"
   }
+  
 }
