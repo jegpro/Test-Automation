@@ -1,0 +1,11 @@
+{
+  "name": "Test-Automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "@types/node": "^22.9.0",
+    "cypress": "^13.15.2"
+  }
+}
